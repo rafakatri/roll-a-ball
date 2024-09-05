@@ -1,5 +1,9 @@
 # Roll a Ball
 
+## Try it yourself!
+
+* [itch.io page](https://rafakat.itch.io/roll-a-ball)
+
 ## Description
 
 Collect all coins before the time limit! Beware the monsters that will follow you and block your way. 
@@ -8,7 +12,7 @@ More coins and monsters will spawn after you are done and the timer will reset. 
 
 Enjoy the upbeat klezmer music with three songs: Odessa Bulgar, Happy Nigun and Tates freilach. One of them is used for the game menu and the other two are randomly selected on each playthrough.
 
-Roll a Ball project for Insper`s digital games course
+Roll a Ball project for Insper`s digital games course, made with Unity.
 
 Rafael Eli Katri
 
